@@ -1,0 +1,25 @@
+red
+blue
+green
+yellow
+dog
+cat
+bird
+tiger
+giraffe
+penguin
+left
+right
+love
+face
+fire
+I
+you
+friend
+what
+why
+radio
+restroom
+bedroom
+living room
+kitchen
